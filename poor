@@ -44,16 +44,9 @@
     }
   ],
   "experimental": {
-    "clash_api": {
-      "external_controller": "127.0.0.1:9090",
-      "external_ui": "ui",
-      "external_ui_download_url": "",
-      "external_ui_download_detour": "",
-      "secret": "",
-      "default_mode": "Rule",
-      "store_mode": true,
-      "store_selected": true,
-      "store_fakeip": true
+    "cache_file": {
+      "enabled": true,
+      "path": "cache.db"
     }
   },
   "outbounds": [
@@ -208,14 +201,14 @@
     {
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8f6a:418a:9b60:35bb:e660/128"
+        "2606:4700:110:8988:c1ee:9e0a:cd47:ac4a/128"
       ],
       "mtu": 1280,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "pre_shared_key": "",
-      "private_key": "mL11kkXnNi46gmvLT7Ci1xjn1X3FMKUvF+NeHPC4fFM=",
-      "reserved": "hTlE",
-      "server": "162.159.192.204",
+      "private_key": "qNSfNi2ZMZQXeif/BpC9xjh/nje/NBifogRXCRGv4lc=",
+      "reserved": "vedv",
+      "server": "162.159.192.0",
       "server_port": 1070,
       "type": "wireguard",
       "domain_strategy": "",
