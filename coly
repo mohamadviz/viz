@@ -1,6 +1,3 @@
-naive+https://mohamadss:porjam12704@poor.sspj.ir/#Naive
-vmess://eyJhZGQiOiJwcnkubW9vaHBqLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwcnkubW9vaHBqLmlyIiwiaWQiOiIzMmJlNzA0ZC0zMGNkLTRkMDUtYTZkYi1lMmZhN2Q2OGIwN2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIzMmJlNzA0ZC0zMGNkLTRkMDUtYTZkYi1lMmZhN2Q2OGIwN2EiLCJwb3J0IjoiMjA1MyIsInBzIjoiTSt3cy10bHMiLCJzY3kiOiJhdXRvIiwic25pIjoicHJ5Lm1vb2hwai5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://32be704d-30cd-4d05-a6db-e2fa7d68b07a@pry.moohpj.ir:2083/?type=grpc&encryption=none&serviceName=pry.moohpj.ir&security=tls&sni=pry.moohpj.ir&alpn=h2&fp=chrome#M%2BVless-GRPC-Tls
-vless://32be704d-30cd-4d05-a6db-e2fa7d68b07a@prry.moohpj.ir:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=j6mEyh_LepghTlb2REM4eomgyDVZAN3Btl9KC9Cfejg&sid=406ccdba62a20dfa#M%2Bvless-reality
-hy2://32be704d-30cd-4d05-a6db-e2fa7d68b07a@prry.moohpj.ir:127/?sni=prry.moohpj.ir#M%2Bhy2
-tuic://32be704d-30cd-4d05-a6db-e2fa7d68b07a:32be704d-30cd-4d05-a6db-e2fa7d68b07a@prry.moohpj.ir:236/?congestion_control=bbr&udp_relay_mode=native&sni=prry.moohpj.ir&alpn=h3#M%2Btuic5
+vless://b74156ac-b7ed-40fc-ae94-b57a4c3f5bd9@pj.moohpj.ir:2096/?type=grpc&encryption=none&serviceName=b66e3209&security=tls&sni=pj.moohpj.ir&alpn=h2&fp=firefox#M%2BgRPC
+vless://7f3d33b3-75d1-409f-8bc4-084c825f73bb@pj.moohpj.ir:2083/?type=ws&encryption=none&security=tls&sni=pj.moohpj.ir&alpn=http%2F1.1&fp=chrome#M%2BWebSocket
+naive+https://Naive:7539aa7ceec874ea@jam.moohpj.ir/#Naive
