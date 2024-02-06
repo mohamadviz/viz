@@ -1,3 +1,2 @@
-vless://b74156ac-b7ed-40fc-ae94-b57a4c3f5bd9@pj.moohpj.ir:2096/?type=grpc&encryption=none&serviceName=b66e3209&security=tls&sni=pj.moohpj.ir&alpn=h2&fp=firefox#M%2BgRPC
-vless://7f3d33b3-75d1-409f-8bc4-084c825f73bb@pj.moohpj.ir:2083/?type=ws&encryption=none&security=tls&sni=pj.moohpj.ir&alpn=http%2F1.1&fp=chrome#M%2BWebSocket
-naive+https://Naive:7539aa7ceec874ea@jam.moohpj.ir/#Naive
+vless://79a13c84-5439-4307-806f-4271aad7d74e@mad.moohpj.ir:8443/?type=grpc&encryption=none&serviceName=22f6cae4&security=tls&sni=mad.moohpj.ir&alpn=h2&fp=firefox#gRPC
+vless://76a4327a-43a8-482b-82ae-46f56bce4730@mad.moohpj.ir:2096/?type=ws&encryption=none&security=tls&sni=mad.moohpj.ir&alpn=http%2F1.1&fp=firefox#WebSocket
