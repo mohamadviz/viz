@@ -131,37 +131,39 @@
             "type": "block"
         },
         {
-            "tag": "dns-out",
-            "type": "dns"
-        },
-        {
-            "type": "wireguard",
-            "server": "162.159.192.227",
-            "server_port": 1070,
-            "local_address": [
-                "172.16.0.2\/32",
-                "2606:4700:110:8e44:7294:bb4:a02e:5727\/128"
-            ],
-            "private_key": "4BA94m7nLMFG+rtIN7O/B6TGbpcRwDc9qIEUZgCSMlo=",
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo=",
-            "mtu": 1280,
-            "reserved": [ 34, 188, 246 ],
-            "tag": "WARP1"
-        },
-        {
-            "type": "wireguard",
-            "server": "162.159.192.227",
-            "server_port": 1843,
-            "local_address": [
-                "172.16.0.2\/32",
-                "2606:4700:110:8cf4:5c4e:a3be:efc:5255\/128"
-            ],
-            "private_key": "0PsyyqrUV1GLqOuZM6g4e+TX5ED2IIobrkZfqm3JaFY=",
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo=",
-            "mtu": 1280,
-            "reserved": [ 136, 135, 18 ],
-            "tag": "WARP2"
-        }
+  "outbounds": 
+  [
+    {
+      "type": "wireguard",
+      "tag": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:851b:4c2b:8999:53dd:3ed2/128"
+      ],
+      "private_key": "qAe+cuZQ438wKDOShATqHyiPmPkNt5cj12vqLkeP80Y=",
+      "server": "162.159.195.120",
+      "server_port": 3581,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [ 60, 85, 49 ],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    },
+    {
+      "type": "wireguard",
+      "tag": "Warp-Main",
+      "detour": "Warp-IR",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8008:8830:280:4d73:ba7a/128"
+      ],
+      "private_key": "oEx5rJQ1qeR5f2x8WseP0SJInpUIKajf/VdAw5lNEVg=",
+      "server": "162.159.195.120",
+      "server_port": 3581,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": [ 228, 251, 196 ],
+      "mtu": 1280,
+      "fake_packets": "5-10"
+    }
     ],
     "route": {
         "auto_detect_interface": true,
