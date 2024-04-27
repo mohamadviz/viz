@@ -1,2 +1,3 @@
-vless://79a13c84-5439-4307-806f-4271aad7d74e@mad.moohpj.ir:8443/?type=grpc&encryption=none&serviceName=22f6cae4&security=tls&sni=mad.moohpj.ir&alpn=h2&fp=firefox#gRPC
-vless://76a4327a-43a8-482b-82ae-46f56bce4730@mad.moohpj.ir:2096/?type=ws&encryption=none&security=tls&sni=mad.moohpj.ir&alpn=http%2F1.1&fp=firefox#WebSocket
+naive+https://mohamadss:porjam12704ss@moh.sspj.ir:443#Naive%F0%9F%8D%80
+vless://e51418e4-b192-4365-ad2c-1765ce5985da@www.gov.se:443/?type=ws&encryption=none&host=vless.poorviz.ir&path=%2F%3Fed%3D2560&security=tls&sni=vless.poorviz.ir&fp=chrome#workers-TLS
+vless://7ca7dd11-e94c-4c9d-8c3f-757d179cbe7f@time.is:443/?type=ws&encryption=none&host=ed.poorviz.ir&path=%2F&security=tls&sni=ed.poorviz.ir&alpn=h1&fp=chrome#ED
