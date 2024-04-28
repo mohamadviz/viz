@@ -141,9 +141,9 @@
     {
       "tag": "SV1", // 修改名称1
       "type": "vless",
-      "server": "time.is", //优选ip或 域名
+      "server": "www.19tools.com", //优选ip或 域名
       "server_port": 8880,
-      "uuid": "844a4cf9-a53b-4d60-bbcf-316b123fcae0", //修改uuid
+      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4", //修改uuid
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
@@ -158,9 +158,9 @@
     {
       "tag": "SV2", // 修改名称2
       "type": "vless",
-      "server": "icook.tw", //优选ip或 域名
+      "server": "malaysia.com", //优选ip或 域名
       "server_port": 8880,
-      "uuid": "844a4cf9-a53b-4d60-bbcf-316b123fcae0", //修改uuid
+      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4", //修改uuid
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
@@ -176,9 +176,9 @@
     {
       "tag": "SV3", // 修改名称2
       "type": "vless",
-      "server": "singapore.com", //优选ip或 域名
+      "server": "time.is", //优选ip或 域名
       "server_port": 8880,
-      "uuid": "844a4cf9-a53b-4d60-bbcf-316b123fcae0", //修改uuid
+      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4", //修改uuid
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
