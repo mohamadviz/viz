@@ -141,7 +141,7 @@
     {
       "tag": "SV1", // 修改名称1
       "type": "vless",
-      "server": "104.16.32.228", //优选ip或 域名
+      "server": "time.is", //优选ip或 域名
       "server_port": 8880,
       "uuid": "844a4cf9-a53b-4d60-bbcf-316b123fcae0", //修改uuid
       "packet_encoding": "xudp",
@@ -158,7 +158,7 @@
     {
       "tag": "SV2", // 修改名称2
       "type": "vless",
-      "server": "104.16.142.237", //优选ip或 域名
+      "server": "icook.tw", //优选ip或 域名
       "server_port": 8880,
       "uuid": "844a4cf9-a53b-4d60-bbcf-316b123fcae0", //修改uuid
       "packet_encoding": "xudp",
@@ -176,7 +176,7 @@
     {
       "tag": "SV3", // 修改名称2
       "type": "vless",
-      "server": "104.18.37.100", //优选ip或 域名
+      "server": "singapore.com", //优选ip或 域名
       "server_port": 8880,
       "uuid": "844a4cf9-a53b-4d60-bbcf-316b123fcae0", //修改uuid
       "packet_encoding": "xudp",
