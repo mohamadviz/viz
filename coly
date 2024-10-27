@@ -1,6 +1,2 @@
-naive+https://mohamadss:porjam12704ss@moh.sspj.ir:443#Naive%F0%9F%8D%80
-vless://e51418e4-b192-4365-ad2c-1765ce5985da@www.gov.se:443/?type=ws&encryption=none&host=vless.poorviz.ir&path=%2F%3Fed%3D2560&security=tls&sni=vless.poorviz.ir&fp=chrome#workers-TLS
-vless://7ca7dd11-e94c-4c9d-8c3f-757d179cbe7f@time.is:443/?type=ws&encryption=none&host=ed.poorviz.ir&path=%2F&security=tls&sni=ed.poorviz.ir&alpn=h1&fp=chrome#ED
-hy2://87157c170a131538@135.181.195.200:6069/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=846069a69853ccbe#HY2
-hy2://87157c170a131538@[2a01:4f9:c012:7d57::1]:6069/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=846069a69853ccbe#Hysteria2-HY2-V6
-vless://e747c3b4-205a-49e1-a572-b18a435eb0ac@mohamad.poorviz.ir:2053/?type=ws&encryption=none&security=tls&sni=mohamad.poorviz.ir&alpn=http%2F1.1&fp=firefox#WebSocket
+vless://7ca7dd11-e94c-4c9d-8c3f-757d179cbe7f@time.is:443?alpn=H3&encryption=none&host=ed.poorviz.ir&path=%2F&security=tls&sni=ed.poorviz.ir&type=ws#ED
+vless://e51418e4-b192-4365-ad2c-1765ce5985da@www.gov.se:443?alpn=h1&encryption=none&host=vless.poorviz.ir&path=%2F%3Fed%3D2560&security=tls&sni=vless.poorviz.ir&type=ws#workers-TLS
