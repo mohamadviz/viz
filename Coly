@@ -1,0 +1,2 @@
+vless://7ca7dd11-e94c-4c9d-8c3f-757d179cbe7f@time.is:443?alpn=H3&encryption=none&host=ed.poorviz.ir&path=%2F&security=tls&sni=ed.poorviz.ir&type=ws#ED
+vless://e51418e4-b192-4365-ad2c-1765ce5985da@www.gov.se:443?alpn=h1&encryption=none&host=vless.poorviz.ir&path=%2F%3Fed%3D2560&security=tls&sni=vless.poorviz.ir&type=ws#workers-TLS
